@@ -1,0 +1,12 @@
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\bin\Debug\net5.0\LibraryRago.deps.json
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\bin\Debug\net5.0\LibraryRago.dll
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\bin\Debug\net5.0\ref\LibraryRago.dll
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\bin\Debug\net5.0\LibraryRago.pdb
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.csproj.AssemblyReference.cache
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.AssemblyInfoInputs.cache
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.AssemblyInfo.cs
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.csproj.CoreCompileInputs.cache
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.dll
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\ref\LibraryRago.dll
+C:\Users\garc800501\Documents\Microservice .NET\PruebasUnitarias\LibraryRago\obj\Debug\net5.0\LibraryRago.pdb
