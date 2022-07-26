@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj": {}
+    "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj": {
+    "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj",
+        "projectUniqueName": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj",
         "projectName": "LibraryRago",
-        "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj",
+        "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj",
         "packagesPath": "C:\\Users\\garc800501\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\obj\\",
+        "outputPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\garc800501\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,5 +15,10 @@ namespace LibraryRago
         {
             return client.isPremium ? Price * .8 : Price;
         }
+
+        public double GetPrice(IClient client)
+        {
+            return client.isPremium ? Price * .8 : Price;
+        }
     }
 }

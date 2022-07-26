@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZw60cTYCm4I4XSoAKszsF7AhmYzczZQSKaciso0dw3jJsxDHRHg42bkc+o4mlD2it8lax+uL/nL1YQ1L8DzlQ==",
+  "dgSpecHash": "zyYvLBJOH/jUhmmOYhSmgalMCwAtiiTLWtgaGhIvDhWysLG3/JS410eY4ByBypsEL2ZNXqGVTn2SP+kPP05b/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
+  "projectFilePath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garc800501\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\garc800501\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

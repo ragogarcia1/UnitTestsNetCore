@@ -21,10 +21,11 @@
         {
             if (mount <= balance)
             {
+                _loggerGeneral.LogDataBase("Mount of Withdrawal" + mount.ToString());
                 balance -= mount;
-                return true;
+                return _loggerGeneral.LogBalanceLaterWithdrawal(mount);
             }
-            return false;
+            return _loggerGeneral.LogBalanceLaterWithdrawal(balance-mount);
         }
 
         public int GetBalance()

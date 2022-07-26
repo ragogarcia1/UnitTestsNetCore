@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryRagoMSTest", "Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryRagoNUnitTest", "LibraryRagoNUnitTest\LibraryRagoNUnitTest.csproj", "{88E472A2-CD90-4677-9D07-D07E79E2DC18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryRagoXUnit", "LibraryRagoXUnit\LibraryRagoXUnit.csproj", "{AF8ED36E-B32E-46F9-80E5-517E866D5F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{88E472A2-CD90-4677-9D07-D07E79E2DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88E472A2-CD90-4677-9D07-D07E79E2DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88E472A2-CD90-4677-9D07-D07E79E2DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8ED36E-B32E-46F9-80E5-517E866D5F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8ED36E-B32E-46F9-80E5-517E866D5F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8ED36E-B32E-46F9-80E5-517E866D5F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8ED36E-B32E-46F9-80E5-517E866D5F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

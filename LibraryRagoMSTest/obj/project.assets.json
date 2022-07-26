@@ -6080,25 +6080,22 @@
   },
   "packageFolders": {
     "C:\\Users\\garc800501\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
+      "projectUniqueName": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
       "projectName": "LibraryRagoMSTest",
-      "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
+      "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRagoMSTest\\LibraryRagoMSTest.csproj",
       "packagesPath": "C:\\Users\\garc800501\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRagoMSTest\\obj\\",
+      "outputPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRagoMSTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\garc800501\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6114,8 +6111,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj": {
-              "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\PruebasUnitarias\\LibraryRago\\LibraryRago.csproj"
+            "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj": {
+              "projectPath": "C:\\Users\\garc800501\\Documents\\Microservice .NET\\UnitTests\\LibraryRago\\LibraryRago.csproj"
             }
           }
         }
@@ -6162,7 +6159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
